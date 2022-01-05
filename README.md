@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**4yuub/4yuub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/karafi_ayoub">
+  <img align="left" alt="ayoub karafi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/karafiayoub/">
+  <img align="left" alt="ayoub's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/karafiayoubox/">
+  <img align="left" alt="ayoub karafi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br />
+<br />
+
+Hi, I'm [Ayoub Karafi](https://github.com/4yuub), I am a student at <a href="https://1337.ma/en/">1337</a> <a href="https://42.fr/en/network-42/">(42 network)</a>.
+
+<br />
+
+<a href="https://github-readme-stats.vercel.app/api?username=4yuub&count_private=true&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4yuub&count_private=true&show_icons=true" alt="Ayoub's github stats" />
+</a>
