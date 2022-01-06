@@ -22,4 +22,3 @@ Hi, I'm [Ayoub Karafi](https://github.com/4yuub), I am a student at <a href="htt
 <a href="https://github-readme-stats.vercel.app/api?username=4yuub&count_private=true&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=4yuub&count_private=true&show_icons=true" alt="Ayoub's github stats" />
 </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4yuub&layout=compact)
