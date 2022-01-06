@@ -20,3 +20,5 @@ Hi, I'm [Ayoub Karafi](https://github.com/4yuub), I am a student at <a href="htt
 <br />
 
 [![4yuub's GitHub stats](https://github-readme-stats.vercel.app/api?username=4yuub)](https://github.com/4yuub)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4yuub&layout=compact)](https://github.com/4yuub)
