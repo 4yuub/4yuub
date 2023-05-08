@@ -2,9 +2,8 @@
 
 ## About Me
 
-I'm a highly motivated computer science student at [1337](https://1337.ma/en/), with a strong passion for coding and technology. I am proficient in various tools and languages such as C/C++, Python, JavaScript/TypeScript, Git/Github and Docker. 
-
-I am always eager to learn new technologies and take on new challenges, and I am committed to producing high-quality work that exceeds expectations. My dedication and passion for coding have led me to pursue various personal projects, which have helped me to hone my skills and develop a deeper understanding of the field.
+I'm a computer science student at [1337](https://1337.ma/en/) with a strong passion for coding and technology. I am skilled in various tools and languages, including C/C++, Python, JavaScript/TypeScript, Git/Github, and Docker.
+I am dedicated to providing high-quality work that surpasses expectations, and I am always willing to learn new technologies and take on new challenges. My devotion and love for coding have inspired me to work on a number of personal projects, which have improved my abilities and given me a better understanding of the subject.
 
 ## Contact Me
 
