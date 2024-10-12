@@ -1,4 +1,4 @@
-# Hi there!  I'm [Ayoub](https://github.com/4yuub), a passionate and dedicated computer science student currently working as a Software Engineer at ORA Techonologies.
+# Hi there!  I'm [Ayoub](https://github.com/4yuub), a passionate and dedicated computer science student currently working as a Software Engineer at BCG X.
 
 ## About Me
 
