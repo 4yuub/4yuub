@@ -1,14 +1,11 @@
-# Hi there!  I'm [Ayoub](https://github.com/4yuub), a passionate and dedicated computer science student currently working as a Software Engineer at BCG X.
+# Hi there! 👋 I'm [Ayoub](https://github.com/4yuub), a passionate and dedicated Software Engineer at BCG X.
 
 ## About Me
 
-I'm a computer science student at [1337](https://1337.ma/en/) with a strong passion for coding and technology. I am skilled in various tools and languages, including C/C++, Python, JavaScript/TypeScript, Git/Github, and Docker. **I am also proficient in Back-end development and enjoy working with Django, Flask, Nestjs, PostgerSQL, MySQL, etc...**.
+I’m a Software Engineer with almost two years of experience turning ideas into fully functional applications. Skilled in tools and languages like Python, JavaScript/TypeScript, Docker, and Git, I specialize in full-stack development. I’ve worked extensively with backend frameworks like Django, FastAPI, and NestJS, as well as frontend technologies like Vue.js, React, and Next.js.
 
-I am dedicated to providing high-quality work that surpasses expectations, and I am always willing to learn new technologies and take on new challenges. My devotion and love for coding have inspired me to work on a number of personal projects, which have improved my abilities and given me a better understanding of the subject.
-
-In my current role as a Software Engineer, I am responsible for the backend development of an application, designing and implementing server-side APIs and services, optimizing backend performance and scalability, Ensuring data security and integrity and Working closely with the front-end development team
+In my current role, I design and implement APIs, build responsive user interfaces, and collaborate with teams to deliver high-quality software solutions. Passionate about coding, I continuously strive to learn and take on new challenges.
 
 ## Contact Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/4yuub/)!
-
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/4yuub/) or reach out via email at contact@4yuub.com!
